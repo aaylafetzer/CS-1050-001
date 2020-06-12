@@ -2,6 +2,16 @@ package com.aayla;
 
 import java.util.Scanner;
 
+/*
+   Program name: Numbers
+   Description: Takes two numbers, then prints their sum and product to the console.
+   Author: Aayla Fetzer
+   Date: 6/12/2020
+   Version: 1.0
+   Vocabulary word (non-computer related): Extraterrestrial
+   Inspirational quote and author (non-political, non-religious): "Pretend to be pathetic" - Inspirobot
+*/
+
 public class Main {
     public static int getInteger() {
         // Define integer and Scanner

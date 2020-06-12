@@ -2,6 +2,17 @@ package com.aayla;
 
 import java.util.Scanner;
 
+/*
+   Program name: Initials
+   Description: Takes a first, middle, and last name and returns the initials
+   Author: Aayla Fetzer
+   Date: 6/12/2020
+   Version: 1.0
+   Vocabulary word (non-computer related): Separate
+   Inspirational quote and author (non-political, non-religious): "Never call it an opportunity. Call it imprisonment" - Inspirobot
+*/
+
+
 public class Main {
     public static void main(String[] args) {
         // Define input variables
