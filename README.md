@@ -1,6 +1,6 @@
 # CS-1050-001
 
-This repository contains all of my code for the CS-1050-001
+This repository contains all of my code for the CS-1050-001 course.
 
 ## Other Students
 
