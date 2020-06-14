@@ -6,10 +6,7 @@ import java.util.Scanner;  // Import the Java Scanner object, which we will use 
    Program name: Initials Walkthrough
    Description: Shows students how to create the Initials program
    Author: Aayla Fetzer
-   Date: 6/12/2020
-   Version: 1.0
-   Vocabulary word (non-computer related): Separate
-   Inspirational quote and author (non-political, non-religious): "Never call it an opportunity. Call it imprisonment" - Inspirobot
+   Date: 6/13/2020
 */
 
 public class Walkthrough {
