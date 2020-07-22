@@ -57,13 +57,12 @@ public class Main {
     }
     public static void main(String[] args) {
         // Test code to add and remove students
-        addStudent(new Student("Aayla", "Fetzer", "aayla@afetzer.com", "0"));
-        addStudent(new Student("Obi-Wan", "Kenobi", "okenobi@jedi.gov", "1"));
-        addStudent(new Student("General", "Greivous", "greivous@separatist.net", "2"));
-        addStudent(new Student("James", "Bond", "strappedto.lasertable@badfilm.co.uk", "3"));
-        // Print the list before removing a student
-        System.out.println(studentArrayList);
+
+        addStudent(new Student("Obi-Wan", "Kenobi", "okenobi@jedi.gov", "0"));
+        addStudent(new Student("General", "Greivous", "greivous@separatist.net", "1"));
         removeStudentByEmail("greivous@separatist.net");
+        addStudent(new Student("James", "Bond", "strappedto.lasertable@badfilm.co.uk", "2"));
+        addStudent(new Student("Aayla", "Fetzer", "aayla@afetzer.com", "3"));
         // Print the list
         System.out.println(studentArrayList);
     }
