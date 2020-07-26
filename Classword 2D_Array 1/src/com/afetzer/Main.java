@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 class Pixel {
-    ArrayList<Integer> values = new ArrayList<Integer>();
+    ArrayList<Integer> values = new ArrayList<>();
     public Pixel(Integer[] RGB) {
         this.values.addAll(Arrays.asList(RGB));
     }
